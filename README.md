@@ -8,7 +8,7 @@
 
 - The project guideline is uploaded in the repo as "Case-Study-2-_-How-can-a-wellness-technology-company-play-it-smart.pdf" and is based on Google's 6 phases of data analytics.
 
-- data is publicly available on
+- The data is publicly available on
 [Kaggle.](https://www.kaggle.com/datasets/arashnic/fitbit)
 
 - At the time of beginning this project (2022-10-31), my knowledge and understanding of the R programming language is extremely rudimentary. For this reason, I will be doing this project in the R programming language for the entirety of the project even when I would otherwise use alternative tools. 
