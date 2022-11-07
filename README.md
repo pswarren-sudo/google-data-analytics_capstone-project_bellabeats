@@ -13,7 +13,6 @@
 
 - At the time of beginning this project (2022-10-31), my knowledge and understanding of the R programming language is extremely rudimentary. For this reason, I will be doing this project in the R programming language for the entirety of the project even when I would otherwise use alternative tools. 
 
-- I will being writing this document as if I were preparing it for my team for feedback as well as an account of my analysis for replication purposes.
 
 #### The Senario.
 
