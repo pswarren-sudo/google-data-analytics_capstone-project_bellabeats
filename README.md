@@ -4,7 +4,7 @@
 
 - The following analysis is my capstone project for the "Google Data Analytics Certification" offered on Coursera.
 
-- The analysis is located in the Rmd file in the repo.
+- The analysis is detailed in "google-data-analytics_capstone-project_bellabeats.Rmd" located in the repo.
 
 - The project guideline is uploaded in the repo as "Case-Study-2-_-How-can-a-wellness-technology-company-play-it-smart.pdf" and is based on Google's 6 phases of data analytics.
 
@@ -19,3 +19,6 @@
 
 - Urška Sršen, a co-founder and the Chief Creative Oﬃcer of Bellabeat, a high-tech manufacturer of health-focused
 products for women, asked the marketing analytics team to focus on a Bellabeat product and analyze smart device usage data in order to gain insight into how people are already using their smart devices. Then, using this information, she would like high-level recommendations for how these trends can inform Bellabeat marketing strategy.
+
+
+
